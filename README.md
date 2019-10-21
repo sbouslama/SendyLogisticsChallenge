@@ -31,5 +31,9 @@ this is the base lightGBM model for this challenge without feature engineering.
 The cv score: 743.78
 The leaderbord score: 724.47
 
+timeConstraints features with the same model: 
+the cv score: 735.216
+the leaderboard score: 717.76
+
 ## Acknowledgements
 Must give credit to Sendy and Zindi for the data. feel free to use the code here as you would like!
