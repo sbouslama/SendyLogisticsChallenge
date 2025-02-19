@@ -1,2 +1,2 @@
-lightgbm==2.3.0
+lightgbm>=4.6.0
 sklearn==0.20.4
